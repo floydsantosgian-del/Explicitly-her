@@ -1267,3 +1267,20 @@ body {
         font-size: 2.5rem;
     }
 }
+.hero-title {
+    font-family: 'Playfair Display', serif;
+    font-size: 6rem;
+    font-weight: 400;
+    color: var(--deep-plum);
+    margin-bottom: 30px;
+    line-height: 1.1; 
+    position: relative;
+    padding-bottom: 10px; 
+}
+
+
+.hero-title .line {
+    display: block;
+    overflow: visible;
+    line-height: 1.1;
+}
